@@ -16,3 +16,6 @@ elif operator == "*":
 elif operator == "/":
     result = num1 / num2
     print(round(result, 3))
+
+#quiz add a message for user if someone choose wrong operator 
+#Hint else statement 
