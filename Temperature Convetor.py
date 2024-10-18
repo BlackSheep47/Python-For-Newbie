@@ -13,3 +13,7 @@ elif unit == "F":
     print(f"The Temperature is: {temp} {unit}")
 else:
     print(f"{unit} is invalid unit")
+
+# Quiz add more temperature 
+# Hint use elif statement
+# show message to user 
