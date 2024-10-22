@@ -1,6 +1,6 @@
-Python Program For Newbies
+<h1> Python Program For Newbies </h1>
 
-<h1> SHOP CART SYSTEM </h1>
+<h3> SHOP CART SYSTEM  🛒 </h3>
 
 ![Screenshot 2024-10-22 210831](https://github.com/user-attachments/assets/dfd34c0e-b9ad-4efd-bc51-c5d093d61c5b)
 
