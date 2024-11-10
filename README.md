@@ -1,7 +1,17 @@
-<h1> on Program For Newbies </h1>
-Pyth![images (2)](https://github.com/user-attachments/assets/63c370d8-7cf3-4f4a-9398-775c16c2e1d5)
-![images (2)](https://github.com/user-attachments/assets/4724a079-3ef4-4876-ac1e-53d5879b4344)
+<h1> Python Program For Newbies </h1>
+<div align="center">
+  
+![images (2)](https://github.com/user-attachments/assets/679c5db5-a790-4f57-b32a-3ce985f31ba4) 
+  
+</div>
 
-<h3> SHOP CART SYSTEM  🛒 </h3>
+<h2> List of programs  🛒 </h2>
+Bank System <br>
+Calculator <br>
+Countdown Timer <br>
+Shop System <br>
+Temperature Convetor <br>
+Tic Tac Toe <br>
+Weight Convetor <br>
 
 
