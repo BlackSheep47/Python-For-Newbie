@@ -12,7 +12,6 @@ Calculator <br>
 Countdown Timer <br>
 Shop System <br>
 Temperature Convetor <br>
-Tic Tac Toe <br>
 Weight Convetor <br>
 
 
